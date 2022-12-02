@@ -1,0 +1,15 @@
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\bin\Debug\net7.0\ConsoleApp.exe
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\bin\Debug\net7.0\ConsoleApp.deps.json
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\bin\Debug\net7.0\ConsoleApp.runtimeconfig.json
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\bin\Debug\net7.0\ConsoleApp.dll
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\bin\Debug\net7.0\ConsoleApp.pdb
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.AssemblyReference.cache
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.AssemblyInfo.cs
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.dll
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\refint\ConsoleApp.dll
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.pdb
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ConsoleApp.genruntimeconfig.cache
+D:\Academia_BeetRoot\Test_Repository\ConsoleApp\obj\Debug\net7.0\ref\ConsoleApp.dll
